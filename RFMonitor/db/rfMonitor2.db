@@ -791,3 +791,33 @@ record(ai,"rcsRRf2:rf:INT106")
 	field(INP, "rcsRf2:rf:INT106")
 }
 
+
+record(ai,"rcsRRf2:rf:INT108")
+{
+	field(SCAN, "1 second")
+	field(INP, "rcsRf2:rf:INT108")
+}
+
+record(ai,"rcsRRf2:rf:INT109")
+{
+	field(SCAN, "1 second")
+	field(INP, "rcsRf2:rf:INT109")
+}
+
+record(ai,"rcsRRf2:rf:INT110")
+{
+	field(SCAN, "1 second")
+	field(INP, "rcsRf2:rf:INT110")
+}
+
+record(ai,"rcsRRf2:rf:INT111")
+{
+	field(SCAN, "1 second")
+	field(INP, "rcsRf2:rf:INT111")
+}
+
+record(ai,"rcsRRf2:rf:INT112")
+{
+	field(SCAN, "1 second")
+	field(INP, "rcsRf2:rf:INT112")
+}
